@@ -1,0 +1,10 @@
+# dynamic octree
+dyna_octree:
+  resolution: [1, 1, 1]
+  depth: 3
+
+plane_seg:
+  ransac_iter: 5
+  ransac_thd: 0.2 # meter. Point with distance to plane less than this threshold will be considered as inliers
+  merge_thd_p: 0.2 # meter
+  merge_thd_n: 10 # degree

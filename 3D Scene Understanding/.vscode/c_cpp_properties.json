@@ -1,0 +1,30 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/home/bob/Kimera-Semantics/devel/include/**",
+        "/home/bob/Kimera-Semantics/src/eigen_checks/include/**",
+        "/home/bob/Kimera-Semantics/src/Kimera-Semantics/kimera_semantics/include/**",
+        "/home/bob/Kimera-Semantics/src/Kimera-Semantics/kimera_semantics_ros/include/**",
+        "/home/bob/Kimera-Semantics/src/minkindr/minkindr/include/**",
+        "/home/bob/Kimera-Semantics/src/minkindr_ros/minkindr_conversions/include/**",
+        "/home/bob/Kimera-Semantics/src/numpy_eigen/include/**",
+        "/home/bob/Kimera-Semantics/src/voxblox/voxblox/include/**",
+        "/home/bob/Kimera-Semantics/src/voxblox/voxblox_ros/include/**",
+        "/home/bob/Kimera-Semantics/src/voxblox/voxblox_rviz_plugin/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

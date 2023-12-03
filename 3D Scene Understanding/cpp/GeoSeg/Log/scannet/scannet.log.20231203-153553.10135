@@ -1,0 +1,14 @@
+Log file created at: 2023/12/03 15:35:53
+Running on machine: R9000P3070
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+config_path: /home/jason/3DSceneUnderstanding/cpp/GeoSeg/configs/scannet.yaml
+Key dyna_octree/resolution found, using value: 3
+Key dyna_octree/depth found, using value: 3
+Key plane_seg/ransac_iter found, using value: 5
+Key plane_seg/ransac_thd found, using value: 0.2
+Key plane_seg/merge_thd_p found, using value: 0.2
+Key plane_seg/merge_thd_n found, using value: 10
+estimate ground cost: 64.9596 ms
+detect plane cost: 60.2937 ms, points: 402727
+merge plane cost: 6.94575 ms
+segmentation time: 190.471 ms
