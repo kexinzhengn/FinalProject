@@ -131,7 +131,7 @@ dmypy.json
 .pyre/
 
 # checkpoint
-*.pth
-outputs/
+#*.pth
+#outputs/
 
 .idea/
