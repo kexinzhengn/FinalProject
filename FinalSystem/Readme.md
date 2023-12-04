@@ -12,4 +12,4 @@ The current system is built with Unity 2022.3.13f1. Using different version migh
 
 # Interface
 ## Animation System
-<img src="[Assets/icon.png](https://github.com/kexinzhengn/FinalProject/blob/main/FinalSystem/imgs/system_interface.png)https://github.com/kexinzhengn/FinalProject/blob/main/FinalSystem/imgs/system_interface.png" width="200">
+<img src="https://github.com/kexinzhengn/FinalProject/blob/main/FinalSystem/imgs/system_interface.png" width="200">
