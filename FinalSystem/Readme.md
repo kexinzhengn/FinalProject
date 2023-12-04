@@ -12,4 +12,23 @@ The current system is built with Unity 2022.3.13f1. Using different version migh
 
 # Interface
 ## Animation System
-<img src="https://github.com/kexinzhengn/FinalProject/blob/main/FinalSystem/imgs/system_interface.png" width="200">
+<img src="https://github.com/kexinzhengn/FinalProject/blob/main/FinalSystem/imgs/system_interface.png" width="600">
+How to create animation with this interface:
+
+1. Click on the 'Draw Line' Button
+2. Draw lines follows the motion sketching definition illustrated in the report.
+3. After drawing one motion, release the mouse button.
+4. Draw the second motion
+5. Repeat step 1 to 4 to create combined motion
+6. Click on 'Play Animation' button to generate and view the animation
+7. You can click on the toggles to switch between different scene views.
+
+## Gesture Collection
+<img src="https://github.com/kexinzhengn/FinalProject/blob/main/FinalSystem/imgs/save_interface.png" width="600">
+You can save your own gesture using this interface consider different people could have different sketching hobbies. Adding more customized gesture can increse the motion recognition accuracy.
+
+How to save customized gesture
+1. Click on the 'Draw Line' Button
+2. Draw lines follows the motion sketching definition illustrated in the report.
+3. Click on the 'Save Gesture' Button
+4. You can view the recognition results by repeat step 1 and 2 then click on the "Recognize Animation' button.
