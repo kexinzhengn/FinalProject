@@ -13,6 +13,7 @@ The current system is built with Unity 2022.3.13f1. Using different version migh
 # Interface
 ## Animation System
 <img src="https://github.com/kexinzhengn/FinalProject/blob/main/FinalSystem/imgs/system_interface.png" width="600">
+[Demo Video]([https://www.youtube.com/watch?v=KA6DG1JrHv8]).
 How to create animation with this interface:
 
 1. Click on the 'Draw Line' Button
