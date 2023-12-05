@@ -5,7 +5,7 @@ This folder contains the complete Unity project. Including the final interactive
 The current system is built with Unity 2022.3.13f1. Using different version might lead to error during compilation.
 
 # How to Run
-1. Clone this project or download ths file from [Google Drive]([https://pip.pypa.io/en/stable/](https://drive.google.com/file/d/1mr1S-H8ROfGjEYZbthwrXQ6j2vrY0Civ/view?usp=sharing)https://drive.google.com/file/d/1mr1S-H8ROfGjEYZbthwrXQ6j2vrY0Civ/view?usp=sharing).
+1. Clone this project or download ths file from [Google Drive](https://drive.google.com/file/d/1mr1S-H8ROfGjEYZbthwrXQ6j2vrY0Civ/view?usp=sharing)
 2. Open it with Unity 2022.3.13f1. Editor
 3. The scene for interactive animation system is **Assets/Scenes/Final_System.unity**. The scene for gesture collection application is **Assets/Scenes/Save_Gesture.unity**
 4. Click the Run button on the editor. You can now use the system in the 'Game' view.
@@ -13,7 +13,7 @@ The current system is built with Unity 2022.3.13f1. Using different version migh
 # Interface
 ## Animation System
 <img src="https://github.com/kexinzhengn/FinalProject/blob/main/FinalSystem/imgs/system_interface.png" width="600">
-[Demo Video]([https://www.youtube.com/watch?v=KA6DG1JrHv8]).
+[Demo Video](https://www.youtube.com/watch?v=KA6DG1JrHv8)
 How to create animation with this interface:
 
 1. Click on the 'Draw Line' Button
