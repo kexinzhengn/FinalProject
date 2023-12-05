@@ -28,7 +28,7 @@ How to create animation with this interface:
 You can save your own gesture using this interface consider different people could have different sketching hobbies. Adding more customized gesture can increse the motion recognition accuracy.
 
 How to save customized gesture
-1. Click on the 'Draw Line' Button
-2. Draw lines follows the motion sketching definition illustrated in the report.
-3. Click on the 'Save Gesture' Button
+1.  Set the gesture name you want to save in the inspector. Accepted gesture names are 'normal_jump','frontflip', 'backflip', 'run'.<img src="https://github.com/kexinzhengn/FinalProject/blob/main/FinalSystem/imgs/inspector.png" width="600">
+2. Click on the 'Draw Line' Button Draw lines follows the motion sketching definition illustrated in the report.
+3. Click on the 'Save Gesture' Button. The XML files will be saved to 'Assets/StreamingAssets/CustomGestures'
 4. You can view the recognition results by repeat step 1 and 2 then click on the "Recognize Animation' button.
